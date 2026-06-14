@@ -1,0 +1,19 @@
+# Dependencies & build output
+node_modules/
+app/node_modules/
+app/dist/
+dist/
+
+# Copyrighted source material — NOT redistributed in this repo
+pyq-data/
+books/
+
+# Stray lockfile at repo root (the real one lives in app/)
+/package-lock.json
+
+# OS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.local

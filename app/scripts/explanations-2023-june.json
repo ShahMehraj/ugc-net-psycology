@@ -1,0 +1,307 @@
+{
+  "_meta": "Explanations + any answer overrides for June 2023. 'override' (0-based) replaces the book key where it is demonstrably wrong; the explanation documents why.",
+  "1": {
+    "text": "In the classical Indian taxonomy of knowledge, Vidyā attained through precise observation and critical reasoning about the self and environment is termed accordingly; the Otta key marks (D) Atmika as the disciplined/systematic knowledge of self and environment."
+  },
+  "2": {
+    "text": "The Bhagavad Gita's 18 chapters are each named as a form of Yoga (e.g., Dhyana Yoga, Aksara-Brahma Yoga, Purushottama Yoga). 'Jagrata Yoga' is not one of the 18 chapter names, so it is the odd one out."
+  },
+  "3": {
+    "text": "Paedocentrism (child-centred education) places the child at the centre of the educative process — the teacher shows the path and guides the child to acquire knowledge rather than imposing it."
+  },
+  "4": {
+    "text": "The three commonly cited post-modern therapies are Solution-Focused, Narrative, and Collaborative therapy. 'Field-based therapy' is not a recognised post-modern therapy, so it is the exception."
+  },
+  "5": {
+    "text": "Selecting whole groups (here, 5 districts) at random and then studying every unit within the chosen groups is Cluster sampling. (Stratified sampling would sample from within every stratum; quota is non-random; convenience is unsystematic.)"
+  },
+  "6": {
+    "text": "Writing and recording the life experiences of a single individual (a hockey legend) to tell their story is the Narrative research approach, which focuses on individual life stories told in chronology."
+  },
+  "7": {
+    "text": "A study seeking to generate/derive an abstract understanding of a process (cultural influences on career development) from participants' accounts reflects Grounded Theory, which builds theory from the data."
+  },
+  "8": {
+    "text": "The standard deviation of a sampling distribution (e.g., of the mean) is called the standard error — here 'Sampling error' in the key's wording. It indexes how much sample statistics vary around the population parameter."
+  },
+  "9": {
+    "text": "Asking someone to demonstrate maximum tailoring ability is a Test of maximal performance (it measures the best a person can do), as opposed to typical-performance measures like self-report inventories."
+  },
+  "10": {
+    "text": "A basic set of beliefs that guides action is a Paradigm (Guba & Lincoln). Axiology concerns values, ontology concerns the nature of reality, and rhetoric concerns the language of research."
+  },
+  "11": {
+    "text": "Searching for underlying (latent) theoretical structures within a construct is Exploratory Factor Analysis, which uncovers the factor structure without imposing a pre-specified model (that would be confirmatory)."
+  },
+  "12": {
+    "override": 1,
+    "text": "CORRECTED: The Spearman–Brown prophecy formula estimates how many parallel/homogeneous items must be added to lengthen a test and raise its reliability to a desired level (verified against the Spearman–Brown prediction formula, which rearranges to give the number of replications needed). The Otta book's printed key (KR-20) is an error — KR-20 estimates internal-consistency reliability for dichotomous items, it does not forecast required test length."
+  },
+  "13": {
+    "text": "The cerebral aqueduct (aqueduct of Sylvius) is the narrow channel that connects the third and fourth ventricles of the brain, carrying cerebrospinal fluid between them."
+  },
+  "14": {
+    "text": "Unipolar (pseudounipolar) sensory neurons of the somatosensory system carry tactile information — touch, pressure, temperature and pain from the skin."
+  },
+  "15": {
+    "text": "Within the limbic system, the amygdala is specifically associated with emotion (especially fear and threat processing)."
+  },
+  "16": {
+    "text": "The temporal lobe houses the primary auditory area and contributes to face recognition. Broca's speech area lies in the FRONTAL lobe, so the book key marks (C) Broca's area as not located in the temporal lobe. Note: option (A) (body sensations) is parietal-lobe (somatosensory) function, so it is arguably also 'not in the temporal lobe' — the item is ambiguous, but the answer of record follows the published key (C)."
+  },
+  "17": {
+    "text": "Stroboscopic (apparent) motion is the perception of movement when an image successively stimulates the retina — we perceive an object as moving whenever its image moves across the retina in rapid succession (the basis of motion pictures)."
+  },
+  "18": {
+    "text": "Thorndike's Law of Effect: behaviours followed by satisfying/favourable consequences become more likely to recur, and those followed by unfavourable consequences become less likely."
+  },
+  "19": {
+    "text": "Wincing in anticipation of thunder after seeing lightning is a learned (Conditioned) Response — the previously neutral flash (CS) now triggers the protective reaction."
+  },
+  "20": {
+    "text": "Extinction in classical conditioning is the gradual weakening/diminishing of the conditioned response (CR) when the CS is repeatedly presented without the UCS."
+  },
+  "21": {
+    "text": "The Stroop effect demonstrates the automaticity of the reading process — reading the word interferes with naming the ink colour because reading is automatic and hard to suppress."
+  },
+  "22": {
+    "text": "Metacognition is 'thinking about thinking' (monitoring/reflecting on one's own cognition; theory of mind). Simply communicating one's postal address is a routine recall task, not a metacognitive activity."
+  },
+  "23": {
+    "text": "Heritability is a population-level statistic — it describes the proportion of variance in a trait attributable to genetic differences within a population, not within a single individual."
+  },
+  "24": {
+    "text": "Cerebral palsy is a motor disorder caused by perinatal brain injury, NOT a chromosomal disorder. Down syndrome (trisomy 21), Fragile-X, and Trisomy 13 (Patau) are chromosomal disorders with intellectual disability. (The book key prints (C) Cerebral palsy — option index 2 — which matches this reasoning.)"
+  },
+  "25": {
+    "text": "Peterson & Seligman's Values in Action (VIA) classification organises 24 character strengths under 6 core virtues (wisdom, courage, humanity, justice, temperance, transcendence)."
+  },
+  "26": {
+    "text": "Hans Selye's three-stage model of chronic stress (alarm, resistance, exhaustion) is the General Adaptation Syndrome (GAS)."
+  },
+  "27": {
+    "text": "The Oedipus and castration complexes are the defining events of the Phallic stage (≈3–6 years) in Freud's psychosexual theory."
+  },
+  "28": {
+    "text": "'Escape from Freedom' (1941) was written by Erich Fromm, examining how people flee the burdens of freedom into authoritarianism, destructiveness, or conformity."
+  },
+  "29": {
+    "text": "The tendency for women to be appointed to precarious leadership positions during times of crisis (high risk of failure) is the Glass-cliff effect (Ryan & Haslam)."
+  },
+  "30": {
+    "text": "Terror Management Theory (Greenberg, Pyszczynski, Solomon) concerns how people cope with awareness of their own mortality, often by defending cultural worldviews and self-esteem."
+  },
+  "31": {
+    "noKey": true,
+    "text": "This item was published without a definitive key (marked '*' in the source) and is excluded from scoring. The premise 'You are the architect of your life' aligns most closely with the Adlerian/Reality-therapy emphasis on personal responsibility and choice."
+  },
+  "32": {
+    "text": "Cumming & Henry's Disengagement Theory holds that ageing involves a mutual, gradual withdrawal of the individual from society across physical, psychological and social domains."
+  },
+  "33": {
+    "text": "The principle of hierarchical integration: simple, specific skills develop first and separately, then combine into more complex, integrated skills."
+  },
+  "34": {
+    "text": "REBT does focus on the role of beliefs/interpretations (the 'B' in the A-B-C model) rather than the activating event itself; the statement that the therapist focuses on feelings/behaviour 'rather than the incident' misrepresents REBT, which targets irrational beliefs — hence it is NOT correct about REBT. (Book key: option index 2.)"
+  },
+  "35": {
+    "text": "Chronic stress elevates cortisol (a glucocorticoid); sustained high cortisol is immunosuppressive and reduces/destroys lymphocytes such as T-cells, weakening immune function."
+  },
+  "36": {
+    "text": "Health-risk behaviours are maintained when they help the individual avoid pain/discomfort and when there is lack of knowledge about the risk — these reinforce continuation of the behaviour."
+  },
+  "37": {
+    "text": "Resilience is most precisely captured by 'individuals in an enriched/adverse-but-supportive environment who nonetheless excel'; however the widely used operational definition is performing BETTER than expected despite being at risk. The book key marks option (B). Standard developmental texts (e.g., Masten) define resilience as good outcomes despite serious threats to adaptation — i.e., at-risk individuals whose performance exceeds expectation. Treat (A)/(B) as closely related; the keyed answer is (B)."
+  },
+  "38": {
+    "text": "Crohn's disease is an inflammatory bowel disease of the gastrointestinal tract, not a cardiovascular disease. Myocardial infarction, angina pectoris, and cardiomyopathy are all CVDs."
+  },
+  "39": {
+    "text": "REM sleep is characterised by desynchronised EEG, muscle atonia, and vivid dreams, and is typically accompanied by genital arousal. 'Lack of genital activity' is therefore NOT a characteristic of REM sleep."
+  },
+  "40": {
+    "text": "Bandura's observational learning has four stages: attention, retention (remembering), reproduction (motor reproduction), and motivation. 'Exploring the environment' is not one of them."
+  },
+  "41": {
+    "text": "Early Buddhist philosophy is generally analysed in terms of a Theory of Reality, Theory of Knowledge, and Theory of Perception/Society. The book key marks option (B) (A, B, C). Because the labelled statements are ambiguous in the source, the keyed combination is used."
+  },
+  "42": {
+    "text": "Existentialism is associated with Kierkegaard, Nietzsche, and (phenomenologically) Husserl; 'Vlademier' is not an existentialist figure, so the correct set excludes it."
+  },
+  "43": {
+    "text": "Parametric ANOVA assumes independence of observations, random assignment, normality, and homogeneity of variance — and a continuous (not categorical) dependent variable. The valid assumptions are independence, random assignment, and homogeneity of variance."
+  },
+  "44": {
+    "text": "Multiple regression is a linear technique with one criterion (dependent) variable and more than one predictor. It does include an intercept constant, and it has only one criterion — so the true statements are that it is linear regression with more than one predictor."
+  },
+  "45": {
+    "text": "The Multitrait-Multimethod (MTMM) matrix was introduced by Campbell & Fiske (1959) to investigate construct validity via convergent and discriminant validity."
+  },
+  "46": {
+    "text": "In Cohen's Kappa K = (f₀ − f_c)/(N − f_c): f₀ = observed agreement frequency, f_c = chance-expected frequency, and N = total data points in the matrix. The published key marks option (D). (Only three statements are printed in the source, so the (A,B,C,D) wording is a source quirk; the answer of record follows the published key.)"
+  },
+  "47": {
+    "text": "A specific brain region can be lesioned by radio-frequency lesion, excitotoxic lesion, and experimental ablation methods. Immunocytochemistry and fluorogold are anatomical tracing/staining techniques, not lesion methods."
+  },
+  "48": {
+    "text": "Negative reinforcement strengthens a response by removing an aversive/unpleasant stimulus; fastening a seatbelt to stop the beeping is the classic example. (Statements A, B, C.)"
+  },
+  "49": {
+    "text": "Perceptual constancies occur across sensory modalities and explain many visual illusions, and they keep object appearance stable despite changing sensory input — they are NOT limited to size and colour only."
+  },
+  "50": {
+    "text": "Theory of Mind is people's understanding of their own and others' mental states (beliefs, feelings, intentions) and the behaviour these predict; individuals with autism often show impaired theory of mind."
+  },
+  "51": {
+    "text": "A phoneme is a category of speech sounds, and every language has its own set of phonemes. (A phoneme is the smallest sound unit that can distinguish meaning, but is not itself a meaning-carrying unit — that is a morpheme.)"
+  },
+  "52": {
+    "text": "Deci & Ryan's Self-Determination Theory specifies three innate psychological needs: Competence, Relatedness, and Autonomy."
+  },
+  "53": {
+    "text": "Jung's archetypes (structural components of the collective unconscious) are also referred to as dominants, imagoes, mythological images, and primordial images — the keyed set reflects these alternative names."
+  },
+  "54": {
+    "text": "Atchley's (1982) retirement phases include Honeymoon, Disenchantment, Reorientation, (and others). The keyed combination reflects these stages."
+  },
+  "55": {
+    "text": "Newborn reflexes (e.g., rooting, sucking) show that the infant responds to touch most strongly around the head, neck and mouth region."
+  },
+  "56": {
+    "text": "Etiological models of psychopathology include biological (nervous system dysfunction), intrapsychic conflict, and learning of dysfunctional behaviour. 'Indulgence in religion' is not an etiological model."
+  },
+  "57": {
+    "text": "Social-psychological analyses (e.g., Myers) note that conflict is readily kindled and fuelled by competition, misperception, and social dilemmas — not by cooperation or conciliation, which reduce conflict."
+  },
+  "58": {
+    "text": "Bottom-up processing is data-driven: sensory analysis begins at the entry (feature) level — detecting lines, angles and colours — and builds up to perception, without prior expectations guiding it."
+  },
+  "59": {
+    "text": "Sternberg's Triarchic Theory of intelligence comprises Analytical, Creative, and Practical intelligences."
+  },
+  "60": {
+    "text": "Recognised developmental screening tests include the Gesell Developmental Schedule and the Denver Developmental Screening Test. 'Holland' and 'Bruner' developmental schedules are not standard screening instruments."
+  },
+  "61": {
+    "text": "In Buddhist analysis, personality (the five skandhas/aggregates) comprises Form (Material), Sensation/Feeling, Perception, Mental formations (Disposition), and Consciousness — matching the 'Material, Perception, Feeling' and 'Disposition, Consciousness' groupings."
+  },
+  "62": {
+    "text": "Stimulus generalisation: a response to one stimulus transfers to similar stimuli (emotional reactions generalise to similar stimuli; desirable foods become unappealing when shaped to resemble something aversive)."
+  },
+  "63": {
+    "dropped": true,
+    "text": "This question was DROPPED by NTA (marked 'Dropped' in the source) and is excluded from scoring. It concerns which abilities are NOT assessed by the Matrix Reasoning subtest of WAIS-IV."
+  },
+  "64": {
+    "text": "Rest's model of ethical decision-making involves Moral Awareness, Moral Judgement, Moral Intent (motivation), and Moral action — the keyed set captures awareness, intent, and judgement."
+  },
+  "65": {
+    "text": "Diener & Crandall describe informed consent in terms of components including competence, voluntarism, full information, and comprehension; the keyed combination reflects information and comprehension among them."
+  },
+  "66": {
+    "text": "Match: Samacariya → healthy/virtuous conduct; Tanha → desire/craving; Satori → awakening/transformation to wholeness; Sammaditthi → right view/thinking. The keyed mapping (option C) reflects these correspondences."
+  },
+  "67": {
+    "text": "Qualitative designs (Creswell): Grounded Theory → deriving abstract theory from participants' views; Phenomenology → understanding lived experiences; Narrative → individual lives retold in chronology; Ethnography → studying an intact cultural group in its setting."
+  },
+  "68": {
+    "text": "Psychometrics/regression mapping: item-bias detection → Item Characteristic Curve; correlation of two dichotomous variables → Phi coefficient; where the regression line crosses Y → intercept; expected change in Y per unit X → slope."
+  },
+  "69": {
+    "text": "Memory mapping: effortful processing → associating/solving (deliberate encoding); spacing effect → distributed practice improving long-term retention; working memory → manipulating concepts; automatic processing → encoding of space, time and word meanings."
+  },
+  "70": {
+    "text": "Sensation theories: Young-Helmholtz (trichromatic) → colour perception; Place theory → high pitches; touch sensations → rubber-hand illusion; Gate-control theory → pain."
+  },
+  "71": {
+    "text": "Theorists: Freud → psychoanalytic view; Skinner → behavioural view; Carl Rogers → humanistic view; Hans Eysenck → genetic/biological (trait) view."
+  },
+  "72": {
+    "text": "Disorders: Manic disorder → elevated, expansive mood and increased energy; Panic disorder → heightened awareness of emotion-specific stimuli; Schizophrenia → delusions, hallucinations, incoherent speech; ADHD → fronto-striatal involvement."
+  },
+  "73": {
+    "override": 0,
+    "text": "Piagetian stages: Object permanence → Sensorimotor; Egocentrism → Preoperational; Conservation → Concrete operational; Abstract thinking → Formal operational. So a→Sensorimotor(II), b(Abstract)→Formal(IV), c(Egocentrism)→Preoperational(I), d(Conservation)→Concrete(III): A-II, B-IV, C-I, D-III, which is option (A). The book key prints option (B); the developmentally correct mapping is option (A)."
+  },
+  "74": {
+    "text": "Health-behaviour models: Rosenstock → Health Belief Model; Rogers → Protection Motivation Theory; Fishbein → Theory of Reasoned Action; Leventhal → Self-Regulation Model."
+  },
+  "75": {
+    "text": "Patanjali's Ashtanga yoga limbs: Pratyahara → withdrawal/control over senses-thoughts; Dharana → concentration; Dhyana → meditation; Samadhi → oneness/integration. The keyed mapping (option B) reflects these."
+  },
+  "76": {
+    "text": "Erikson's psychosocial stages in order: Trust vs mistrust → Autonomy vs shame/doubt → Initiative vs guilt → Industry vs inferiority. The keyed sequence begins with trust vs mistrust."
+  },
+  "77": {
+    "text": "Action research cycle (Lewin): Plan → Action → Observation → Reflection. The keyed order starts with Plan (C, A, B, D)."
+  },
+  "78": {
+    "text": "Action potential ion sequence: Na⁺ channels open and Na⁺ enters → K⁺ channels open and K⁺ leaves → Na⁺ channels become refractory → K⁺ continues to leave restoring resting potential → channels reset (A, C, E, B, D)."
+  },
+  "79": {
+    "text": "Schachter-Singer two-factor theory sequence: Stimulus → General physiological arousal → Cognitive appraisal/labelling of the arousal → Subjective emotional experience (A, C, B, D)."
+  },
+  "80": {
+    "text": "Latané & Darley's bystander/prosocial decision steps: Notice something unusual → Interpret as emergency → Decide one has the knowledge/skill (assume responsibility) → decide to help (B, D, C, A, E per the key)."
+  },
+  "81": {
+    "text": "Egan's developmental counselling model sequence reflected in the keyed order beginning with identification of blind spots, then brainstorming/exploring possibilities, then force-field analysis."
+  },
+  "82": {
+    "text": "Physiological stress (HPA axis) sequence: Perception of stress → CRF from hypothalamus → ACTH from pituitary → glucocorticoid (cortisol) release from adrenal → immune suppression (C, B, A, E, D)."
+  },
+  "83": {
+    "text": "Pancha Kosha (five sheaths) from outer to inner: Annamaya (food/physical) → Pranamaya (vital/breath) → Manomaya (mind) → Vijnanamaya (intellect) → Anandamaya (bliss): A, D, B, C, E."
+  },
+  "84": {
+    "text": "Chronological emergence of leadership approaches: Trait → Behavioural → Contingency → Transformational (C, A, D, B)."
+  },
+  "85": {
+    "text": "Spinal vertebrae top to bottom: Cervical → Thoracic → Lumbar → Sacral (C, A, D, B)."
+  },
+  "86": {
+    "text": "Glasser's Reality Therapy proposes five basic human needs: survival, love & belonging, power, freedom, and fun. Both Assertion and Reason are correct and R correctly explains A."
+  },
+  "87": {
+    "text": "Matching participants on an extraneous variable (choosing homogeneous participants) is indeed a method to control extraneous variance; both A and R are correct and R explains A."
+  },
+  "88": {
+    "text": "Assertion is FALSE: monozygotic (identical) twins arise from ONE fertilised egg and share ~100% of genes and the same sex — they are not 'fraternal'. The Reason correctly describes dizygotic (fraternal) twins. So A is false but R is true (option D)."
+  },
+  "89": {
+    "text": "Both statements are correct — Head Start boosts school readiness, and genes plus experience jointly shape cognitive/social skills — but R is not the direct explanation of A's specific claim about preschool programmes, so they are both true without R explaining A."
+  },
+  "90": {
+    "text": "Both statements are incorrect: motivation does provide direction (not just energise) and motivational states arise from internal drives as well as external incentives, so Statement II's 'only external' is wrong."
+  },
+  "91": {
+    "text": "For a paired/within-subjects design with N pairs, degrees of freedom = N − 1. With 7 pairs of before/after scores, df = 7 − 1 = 6. (Option C.) The book key marks option (C) df = 6, consistent with a within-subjects t/Wilcoxon design on 7 participants."
+  },
+  "92": {
+    "text": "The design is a within-subjects (paired) before-vs-after comparison. Because the passage explicitly states the scores are normally distributed, the appropriate parametric paired test is the Correlated (paired) t-test — option (C), per the published key. (If normality were not assumed, the non-parametric Wilcoxon Signed-Rank test would be used instead.)"
+  },
+  "93": {
+    "text": "Rejecting the null hypothesis indicates a statistically significant difference — here, that participation in meditation leads to a significant difference in well-being scores."
+  },
+  "94": {
+    "text": "A directional (one-tailed) hypothesis specifies the direction of effect — e.g., meditation has a positive effect on well-being."
+  },
+  "95": {
+    "text": "An interval scale has the properties of identity, magnitude, and equal unit size, but lacks a true/absolute zero (that is the ratio scale)."
+  },
+  "96": {
+    "text": "Vygotsky's theory is the Sociocultural theory of cognitive development, emphasising social interaction and culture in the development of higher mental functions."
+  },
+  "97": {
+    "text": "ZPD stands for the Zone of Proximal Development."
+  },
+  "98": {
+    "text": "Vygotsky defined the ZPD as the gap between what a child can do independently and what they can achieve with guidance from a more knowledgeable other — the region of sensitivity for learning."
+  },
+  "99": {
+    "text": "The process by which a more knowledgeable partner adjusts support to fit the learner's needs over the course of interaction is Scaffolding (Wood, Bruner & Ross)."
+  },
+  "100": {
+    "text": "Vygotsky called language, counting systems, mnemonics, symbols, art and writing psychological tools or 'mediators' that mediate and direct higher thinking."
+  }
+}
