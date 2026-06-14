@@ -30,7 +30,24 @@ export default function Home() {
   return (
     <div className="home">
       <header className="home-hero">
-        <div className="brand">🧠 UGC&nbsp;NET Psychology</div>
+        <div className="brand">
+          <svg className="brand-icon" viewBox="0 0 64 64" aria-hidden="true">
+            <rect width="64" height="64" rx="14" fill="var(--navy)" />
+            <g
+              fill="none"
+              stroke="#fff"
+              strokeWidth="3"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="M32 18v30" />
+              <path d="M32 20c-2-4-7-5-10-2-4-1-7 2-6 6-3 2-3 6 0 8-1 4 2 7 6 6 2 3 7 3 10 0" />
+              <path d="M32 20c2-4 7-5 10-2 4-1 7 2 6 6 3 2 3 6 0 8 1 4-2 7-6 6-2 3-7 3-10 0" />
+              <path d="M32 27c-2 1-4 1-5-1M32 35c-2-1-4-1-5 1M32 27c2 1 4 1 5-1M32 35c2-1 4-1 5 1" />
+            </g>
+          </svg>
+          UGC&nbsp;NET Psychology
+        </div>
         <h1>Previous-Year Question Practice</h1>
         <p className="tagline">
           Attempt real UGC&nbsp;NET Psychology papers in the official NTA style — learn with
