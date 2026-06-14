@@ -194,6 +194,16 @@ button { font-family: inherit; cursor: pointer; }
 .palette-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
 .pal { border: none; border-radius: 8px; padding: 9px 0; font-weight: 700; font-size: 14px; }
 .pal.current { outline: 3px solid var(--navy); outline-offset: 1px; }
+.pal { cursor: pointer; }
+
+.palette-pager { display: flex; align-items: center; justify-content: space-between;
+  gap: 8px; margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--gray-200); }
+.palette-pager .pager-btn { width: 32px; height: 32px; border: 1px solid var(--gray-300);
+  background: #fff; border-radius: 8px; font-size: 18px; font-weight: 700; color: var(--navy);
+  cursor: pointer; line-height: 1; }
+.palette-pager .pager-btn:hover:not(:disabled) { background: var(--gray-50); }
+.palette-pager .pager-btn:disabled { opacity: .4; cursor: default; }
+.palette-pager .pager-label { font-size: 13px; color: var(--gray-700); font-weight: 600; }
 
 .palette-toggle { display: none; position: fixed; bottom: 20px; right: 20px; z-index: 30;
   background: var(--navy); color: #fff; border: none; border-radius: 999px; padding: 12px 22px;
