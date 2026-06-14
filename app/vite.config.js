@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // HashRouter is used so deep links work on GitHub Pages without server config.
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE || '/ugc-net-psychology/',
+  base: process.env.VITE_BASE || '/ugc-net-psycology/',
 })
