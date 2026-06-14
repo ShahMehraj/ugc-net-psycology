@@ -14,7 +14,7 @@
 // `verify` flags an item where the published key looked questionable and was
 //   double-checked against standard references (see explanation).
 
-import part1, { climatePassage } from './2023-june-part1.js'
+import part1, { climatePassage, diVillagesPassage } from './2023-june-part1.js'
 
 const psychologyPaper = {
   // Psychology section (Paper II) questions, ids 1–100 internally.
@@ -1150,7 +1150,17 @@ const psychologyPaper = {
   passages: {
     meditation: {
       title: 'Passage (Questions 91–95)',
-      text: 'A study was conducted to find out whether participation in meditation influences well-being in children. However a group of children who have not participated in meditation before but are now planning to begin participating in meditation were given a well being scale before they began meditation. The children were administered the same test again after 2 months of meditation. The well being was measured on an internal scale, with higher scores indicating higher well being. The scores on the scale were normally distributed. The scores are given below:\n\nBefore → After\n4 → 6\n8 → 5\n10 → 11\n12 → 10\n14 → 15\n16 → 17\n18 → 16',
+      text:
+        'A study was conducted to find out whether participation in meditation influences well-being in children. However a group of children who have not participated in meditation before but are now planning to begin participating in meditation were given a well being scale before they began meditation. The children were administered the same test again after 2 months of meditation. The well being was measured on an internal scale, with higher scores indicating higher well being. The scores on the scale were normally distributed. The scores are given below:\n\n' +
+        '| Before | After |\n' +
+        '| --- | --- |\n' +
+        '| 4 | 6 |\n' +
+        '| 8 | 5 |\n' +
+        '| 10 | 11 |\n' +
+        '| 12 | 10 |\n' +
+        '| 14 | 15 |\n' +
+        '| 16 | 17 |\n' +
+        '| 18 | 16 |',
     },
     vygotsky: {
       title: 'Passage (Questions 96–100)',
@@ -1197,6 +1207,7 @@ const paper = {
     psy_meditation: psychologyPaper.passages.meditation,
     psy_vygotsky: psychologyPaper.passages.vygotsky,
     climate: climatePassage,
+    di_villages: diVillagesPassage,
   },
 }
 

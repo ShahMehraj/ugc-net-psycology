@@ -19,7 +19,8 @@ const part1 = [
   {
     id: 1,
     section: 'general',
-    text: 'The following table shows the % distribution of children in five villages (V1–V5) and the % distribution of children attending school. Total children across the five villages = 5800; total attending school = 3600.\n\nV1: 16% children / 15% attending; V2: 24% / 28%; V3: 11% / 14%; V4: 18% / 21%; V5: 31% / 22%.\n\nWhat is the total number of children who do NOT attend school from villages V2 and V3 together?',
+    passageId: 'di_villages',
+    text: 'What is the total number of children who do NOT attend school from villages V2 and V3 together?',
     options: ['528', '508', '518', '628'],
     answer: 2,
     confidence: 'derived',
@@ -28,6 +29,7 @@ const part1 = [
   {
     id: 2,
     section: 'general',
+    passageId: 'di_villages',
     text: 'The number of children attending school from village V1 is approximately ____ % of the total number of children from that village.',
     options: ['58', '60', '53', '54'],
     answer: 0,
@@ -37,6 +39,7 @@ const part1 = [
   {
     id: 3,
     section: 'general',
+    passageId: 'di_villages',
     text: 'What is the average number of children who do not attend school from villages V2, V3 and V5 together?',
     options: ['512', '508', '540', '532'],
     answer: 1,
@@ -46,6 +49,7 @@ const part1 = [
   {
     id: 4,
     section: 'general',
+    passageId: 'di_villages',
     text: 'The total number of children from villages V4 and V5 together is approximately ____ % more than the total number of children who do not attend school from the same two villages.',
     options: ['118', '124', '122', '120'],
     answer: 3,
@@ -55,6 +59,7 @@ const part1 = [
   {
     id: 5,
     section: 'general',
+    passageId: 'di_villages',
     text: 'What is the ratio of the total number of children from village V4 to the number of children attending school from the same village?',
     options: ['22:21', '29:21', '20:21', '31:23'],
     answer: 1,
@@ -575,6 +580,19 @@ const part1 = [
     explanation: 'The passage indicates the developed world copes better (more resources) and that climate change is "almost entirely the result of fossil fuel consumption... by or for the benefit of the developed world." Both statements are correct.',
   },
 ]
+
+export const diVillagesPassage = {
+  title: 'Data (Questions 1–5)',
+  text:
+    'The following table shows the % distribution of children in five villages (V1–V5) and the % distribution of children attending school. Total children across the five villages = 5800; total attending school = 3600.\n\n' +
+    '| Village | Children (%) | Attending school (%) |\n' +
+    '| --- | --- | --- |\n' +
+    '| V1 | 16 | 15 |\n' +
+    '| V2 | 24 | 28 |\n' +
+    '| V3 | 11 | 14 |\n' +
+    '| V4 | 18 | 21 |\n' +
+    '| V5 | 31 | 22 |',
+}
 
 export const climatePassage = {
   title: 'Passage (Questions 46–50)',

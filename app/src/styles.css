@@ -138,15 +138,18 @@ button { font-family: inherit; cursor: pointer; }
 .statement-list { margin: 0 0 16px; padding-left: 0; list-style: none; }
 .statement-list li { margin-bottom: 6px; padding-left: 4px; }
 .stmt-letter { font-weight: 700; color: var(--navy); margin-right: 6px; }
-.match-table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }
-.match-table th, .match-table td { border: 1px solid var(--gray-300); padding: 8px 12px; text-align: left; font-size: 15px; }
-.match-table th { background: var(--navy); color: #fff; }
-.match-table tr:nth-child(even) td { background: var(--gray-50); }
+.match-table, .data-table { width: 100%; border-collapse: collapse; margin: 12px 0 16px; }
+.match-table th, .match-table td,
+.data-table th, .data-table td { border: 1px solid var(--gray-300); padding: 8px 12px; text-align: left; font-size: 15px; }
+.match-table th, .data-table th { background: var(--navy); color: #fff; }
+.match-table tr:nth-child(even) td,
+.data-table tr:nth-child(even) td { background: var(--gray-50); }
 
 .passage { background: var(--gray-50); border: 1px solid var(--gray-200); border-radius: 8px;
   padding: 12px 16px; margin-bottom: 18px; }
 .passage summary { font-weight: 700; color: var(--navy); cursor: pointer; }
-.passage-text { white-space: pre-wrap; font-family: inherit; font-size: 14px; color: var(--gray-700); margin: 10px 0 0; }
+.passage-text { font-family: inherit; font-size: 14px; color: var(--gray-700); margin: 10px 0 0; }
+.passage-text .stem-line { margin: 0 0 6px; }
 
 .options { list-style: none; padding: 0; margin: 0 0 20px; display: flex; flex-direction: column; gap: 10px; }
 .option { width: 100%; text-align: left; display: flex; align-items: center; gap: 12px;
