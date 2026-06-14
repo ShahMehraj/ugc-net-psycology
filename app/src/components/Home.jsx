@@ -105,7 +105,12 @@ export default function Home() {
                 )
               })}
             </div>
-            {selected?.note && <p className="paper-note">ℹ️ {selected.note}</p>}
+            {selected?.note && (
+              <p className="paper-note">
+                <span className="paper-note-icon">ℹ️</span>
+                <span className="paper-note-text">{selected.note}</span>
+              </p>
+            )}
           </div>
 
           <div className="field">
