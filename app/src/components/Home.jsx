@@ -79,14 +79,26 @@ export default function Home() {
                     </div>
                     <div className="tile-sub">{p.sublabel}</div>
                     <div className="tile-meta">
-                      Exam: {p.examDate}
+                      <span className="tile-date">
+                        <span className="tile-date-icon">📅</span> {p.examDate}
+                      </span>
                       {p.partsAvailable && (
-                        <>
-                          {' · '}
-                          {p.partsAvailable.part2 ? 'Psychology ✓' : 'Psychology —'}
-                          {' / '}
-                          {p.partsAvailable.part1 ? 'Part-1 ✓' : 'Part-1 —'}
-                        </>
+                        <div className="tile-parts">
+                          <span
+                            className={`part-chip ${
+                              p.partsAvailable.part2 ? 'part-on' : 'part-off'
+                            }`}
+                          >
+                            {p.partsAvailable.part2 ? '✓' : '—'} Psychology
+                          </span>
+                          <span
+                            className={`part-chip ${
+                              p.partsAvailable.part1 ? 'part-on' : 'part-off'
+                            }`}
+                          >
+                            {p.partsAvailable.part1 ? '✓' : '—'} Part-1
+                          </span>
+                        </div>
                       )}
                     </div>
                   </button>
